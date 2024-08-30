@@ -7,4 +7,4 @@ Motivation:- My Motivation is very Simple. Doing better in whatever we are doing
 
 My 100 Days Plan(Rough): 
 
-Day 1: calculas basics
+Day 1: Maths
