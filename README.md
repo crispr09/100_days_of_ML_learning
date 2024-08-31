@@ -3,7 +3,7 @@
 Overview:- 
 Simply My Implementation of #100DaysofMLCode Challenge.
 
-Motivation:- My Motivation is very Simple. Doing better in whatever we are doing and create a better place for followers(direct or indirect).
+Motivation:- My Motivation is very Simple. Have the tech which Tony Stark owned ;)
 
 My 100 Days Plan(Rough): 
 
