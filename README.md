@@ -7,4 +7,4 @@ Motivation:- My Motivation is very Simple. Have the tech which Tony Stark owned 
 
 My 100 Days Plan(Rough): 
 
-Day 1: Maths
+Day 1: Maths -Algebra
